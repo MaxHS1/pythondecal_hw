@@ -1,0 +1,11 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+cd moves you into a new directory. ls shows you what's in that directory. nano gets you into a text editor. python3 opens python in the terminal. terminal is in bash.
+2. Do you have pets? What kind?
+I have 3 dogs!! Two beagles and a mix of everything.
+3. If you run across an error, what would your first course of action be?
+Learn what the error means and how I got there.
+4. Funniest thing that happened to you in high school.
+Took my junior year yearbook photo with a big wig.
+5. What is a python script? (Keep it simple)
+A series of commands meant to do a task.
+
